@@ -6,6 +6,6 @@ navigator.serviceWorker
     console.log("service worker registered")
   })
   .catch(function(err){
-    console.log("service worker not registered", err)
+    console.log("service worker not registered",err)
   })
 }
